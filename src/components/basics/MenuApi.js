@@ -24,7 +24,7 @@ const Menu = [
       category: "breakfast",
       price: "10₹",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+        "I love corn realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
     },
     {
       id: 4,
@@ -80,6 +80,23 @@ const Menu = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
     },
+    {
+      id: 10,
+      image: "../images/samosa.jpg",
+      name: "Avishek",
+      category: "Avishek",
+      price: "10₹",
+      description:
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+    },{
+      id: 11,
+      image: "../images/samosa.jpg",
+      name: "Vivek",
+      category: "Vivek",
+      price: "10₹",
+      description:
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+    }
   ];
   
   export default Menu;
